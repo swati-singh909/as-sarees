@@ -1,0 +1,11 @@
+id,name,hindi,image,about,sort,show
+katan-silk,Katan Silk,कतान सिल्क,fabric-katan.webp,Pure silk threads twisted together. Rich sheen and a heavy drape — the classic bridal Banarasi.,1,yes
+kora-organza,Kora Organza,कोरा ऑर्गेंज़ा,fabric-organza.webp,"Sheer, crisp organza woven with zari. Light to wear and holds its shape beautifully.",2,yes
+georgette,Georgette,जॉर्जेट,fabric-georgette.webp,"Soft, flowing and easy to drape. Banarasi zari work on a lightweight base for parties.",3,yes
+tissue,Tissue,टिशू,fabric-tissue.webp,Zari woven through the fabric gives a metallic shimmer — made for weddings and festivals.,4,yes
+tussar-silk,Tussar Silk,टसर सिल्क,fabric-tussar.webp,"Textured silk with a natural golden tone and a rich, earthy look.",5,yes
+chiffon,Chiffon,शिफ़ॉन,fabric-chiffon.webp,Feather-light and fluid — a comfortable choice for long functions.,6,yes
+crepe,Crepe,क्रेप,fabric-crepe.webp,Fine crinkled texture with a matte finish; drapes smoothly and resists creases.,7,yes
+shattir,Shattir,शत्तीर,fabric-shattir.webp,Silk-blend with Banarasi motifs at a friendly price — great for gifting and festive wear.,8,yes
+cotton-silk,Cotton Silk,कॉटन सिल्क,fabric-cottonsilk.webp,"Cotton–silk blend: breathable and light with a gentle sheen. Good for daytime.",9,yes
+suits,Banarasi Suits,बनारसी सूट,fabric-suits.webp,Unstitched Banarasi suit sets and dupattas.,10,yes
